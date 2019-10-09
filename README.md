@@ -1,2 +1,2 @@
 # Hello-World
-This is Hello World Program Written in Python Language
+This is Hello World Program Written in C Language
